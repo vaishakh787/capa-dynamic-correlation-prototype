@@ -50,7 +50,8 @@ Sandbox noise (e.g. explorer.exe, system) is filtered to focus on relevant behav
 
 Example Output:
 
-<img width="507" height="493" alt="image" src="https://github.com/user-attachments/assets/49d132ed-0b44-4359-a382-8be6f7d0f93a" />
+<img width="501" height="489" alt="image" src="https://github.com/user-attachments/assets/19dbb2c2-8721-4a78-b4c4-a33127ba2eb8" />
+
 
 
 
