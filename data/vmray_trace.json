@@ -1,0 +1,22 @@
+{
+  "calls": [
+    {
+      "process": "malware.exe",
+      "api": "CreateFileA",
+      "arguments": ["C:\\temp\\file.txt"]
+    },
+    {
+      "process": "malware.exe",
+      "api": "connect",
+      "arguments": ["192.168.1.5"]
+    },
+    {
+      "process": "explorer.exe",
+      "api": "CreateFileA"
+    },
+    {
+      "process": "system",
+      "api": "RegQueryValue"
+    }
+  ]
+}
