@@ -1,4 +1,4 @@
-Capa Dynamic Correlation Prototype
+<img width="896" height="710" alt="image" src="https://github.com/user-attachments/assets/642eeb05-dcd3-42be-9334-23cda1ed8640" />Capa Dynamic Correlation Prototype
 
 Overview
 
@@ -65,6 +65,9 @@ capability → OR → API features
 Saved to:
 
 output/graph.png
+
+<img width="896" height="710" alt="image" src="https://github.com/user-attachments/assets/074f64c0-a978-4dd3-a0b0-3ed610433eeb" />
+
 
 
 
